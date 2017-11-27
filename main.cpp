@@ -2,6 +2,7 @@
 
 //in this version, arrays are incorporated to store values
 //these two dimensional arrays holds multiple students with each of there respective exam scores.
+//Then, using the GradeBook class, you can get data insight into the grades for each student.
 int main()
 {
 	//array of students grades
